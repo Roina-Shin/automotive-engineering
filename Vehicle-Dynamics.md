@@ -95,3 +95,67 @@
 - In other words, the velocity of the rotation and the velocity of the translation **must be equal at the point P** so that the wheel does not slip. This then results in the fact that the velocity at which the vehicle will be moving.
 
 
+
+### D'Alembert's Principle
+
+- Mass times Acceleration equals Force. In this equation, the mass is constant. As you can see in the second equation, Force is actually equal to the **derivative over time** of the Mass time Velocity.
+
+
+
+![newton-second-law-of-nituib](/pictures/vehicle-dynamics/newton's-second-law-of-motion.PNG "newton's second law of motion")
+
+
+
+- Now, if we assume that the Mass doesn't change over time, that is the Mass of the car, then it can be assumed that the Mass is constant. 
+
+
+
+![third-equation](/pictures/vehicle-dynamics/third-equation.PNG "third equation")
+
+
+- If the Mass is constant, then we can simply move it from the derivative, from the inside of the derivative, to a constant multiplying on the outside. In other words, the derivative is useful to understand how a variable varies over time, because **dt** is derivative over time. 
+
+
+- Therefore, the equation changes to that indicator on the third equation, which is **the Mass times the Derivative Over Time of the Velocity**.
+
+
+- The rate at which the velocity changes is precisely the acceleration. That means that the acceleration is the derivative of the velocity. Therefore, Force is equal to Mass times Acceleration.
+
+
+- The objective of this study is to understand how the motion of a car is related to the Newton's second law of motion.
+
+
+![different-way-of-expressing-equation](/pictures/vehicle-dynamics/different-way-of-expressing-equation.PNG "different way of expressing equation")
+
+
+- The above is another way of expressing the same equation. But Force here indicates an external force, whereas Mass times Acceleration is a Force related to the mass of the body. And this type of Force (Mass * Acceleration) is commonly known as an inertial force.
+
+
+![derivative-over-time](/pictures/vehicle-dynamics/derivative-over-time.PNG "derivative-over-time")
+
+
+- And the third equation above has been expressed or indicated as a V with a dot on the top. This is the same as the **derivative over time of the velocity**.
+
+
+![d'alembert's-principle](/pictures/vehicle-dynamics/d'alembert's-principle.PNG "d'alembert's principle")
+
+
+- In the D'alembert's Principle, the force is assumed to cause a certain displacement. That is, by applying a force, the body will displace a certain amount.
+
+
+- So, D'alembert's principle simply considers that all of the external forces applied to the body minus all of the inertial forces is equal to zero. In the third equation, the subindex *i* stands for each one of the forces applied to the vehicle. So, in this case, we are not only considering only one of the forces, but rather consider all of the forces, that is the compound of the forces acting on the car at that moment.
+
+
+- And if you look at the sigma at the far left of the equation, its *n* implies that the *n* number of forces are applied to the vehicle.
+
+
+- So, in other words, the D'alembert's Principle postulated that all forces, **external and inertial** applied to a car or applied to any body, really must be equal to zero.
+
+
+- For any body, the sum of externally applied forces and the inertial (mass) forces resisting motion in any given direction is zero.
+
+
+![inertial-forces](/pictures/vehicle-dynamics/inertial-forces.PNG "inertial forces")
+
+
+- So, the mass of the object we are trying to move opposes the force that is being applied. Thus, the difficulty to move an object is the very definition of the inertial force. 

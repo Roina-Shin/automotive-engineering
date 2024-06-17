@@ -70,3 +70,79 @@ stress (~ force)
 
 
 - Also, due to legislative and consumer demands for lightweight, fuel-efficient vehicles, the use of lightweight and composite materials in the automotive industry has been increasing in recent years.
+
+
+## Axles
+
+- Weight of the car and loads are tranferred to the ground through the wheels. So, the wheels are the interaction between the ground and the car.
+
+
+- The wheels are connected to the vehicle through **the axles**. This is where the axles become a very relevant component. They are the way in which the wheels will transmit the energy to the car itself.
+
+
+- So, the axles are also **the key to transmitting acceleration and braking forces to the wheels**.
+
+
+![vehicle-axles](/pictures/chassis/wheel-axles.PNG "vehicle axles")
+
+
+- But most importantly, the axles must be capable of supporting and withstanding the loads of the car.
+
+
+- As a result, two types of axles can be defined. The first one would be the **drive axle**, which fundamentally, takes into account **the transmission power** from the driveshaft through the **differential** right to the wheels.
+
+
+![drive-axle-and-driveshaft](/pictures/chassis/drive-axle-and-driveshaft.PNG "drive axle and driveshaft")
+
+
+- And the second one is **dead axle** in which no transmission power is required, but rather only structural demands are fulfilled. So, the dead axle will be a structural component that unites the 2 wheels.
+
+
+![dead-axle](/pictures/chassis/dead-axle.PNG "dead axle")
+
+
+
+## Front Axle and Rear Axle
+
+![front-and-rear-axles](/pictures/chassis/front-axle-and-rear-axle.PNG "front axle and rear axle")
+
+
+- Now, let's make a brief distinction between a front axle and a rear axle. The difference between a front and rear axles can be described as the difference between a drive and dead axles.
+
+
+- The front axle must carry the front weight. And the front axle usually facilitates the steering of a car. Because the steering is provided to the front axle.
+
+
+- The rear axle will transmit the power (from differential) to driving wheels. And the differential transmits the energy from the engine towards the axle.
+
+
+## Semi Floating Axle vs. Full Floating Axle
+
+- **Full floating axles** are only subjected to torsional loads. Whereas, in the case of **semi floating axles** are subjected to torsional but also shear stress.
+
+
+![full-floating-and-semi-floating-axles](/pictures/chassis/semi-floating-axle-vs-full-floating-axle.PNG "semi floating axle vs. full floating axle")
+
+
+- **Semi-floating axles** are both lighter in weight and cheaper to manufacture than full floating axles. Though they have a limited load capacity, so they are the axle of choice in light duty vehicles, including mid-size and small pickup trucks, and so on.
+
+
+- In the case of **full floating axles**, they consis of a **wheel hub**, an assemble that is separate from the axle shaft.
+
+
+- And a **spindle** bolted to the axle tube supports the wheel hub **by means of a pair of wheel bearings**. Therefore, the weight of the vehicleand its cargo is transferred to the axle tube rather than the axle shaft itself. As a result, **a full floating axle shaft** is not subjected to the bending moment or shear force that a semi-floating axle is.
+
+
+- Rather, the axle shaft's only task is to transmit power to the wheel hub. As a result, the shaft is only subjected to torsional loads.
+
+
+- The full floating axles are rather heavy, but they have a very large weight carrying capacity. They are pretty common in heavy trucks.
+
+
+- The main idea of **bearing** is to connect an axle tube and the rotating shaft. That is where the concept of bearings come. Bearings are used to connect **2 circular or cylindrical components**.
+
+
+![axle-bearings](/pictures/chassis/axle-bearings.PNG "axle bearings")
+
+
+- So, without the bearings, there would be clearly a difficult way to connect the shaft and the axle tube and also transmit the forces within. 

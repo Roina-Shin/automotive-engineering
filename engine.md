@@ -103,7 +103,7 @@
 ![rotating-camshaft](https://energyeducation.ca/wiki/images/2/27/EccentricCam.gif)
 
 
-- In addition, the way we provide the movement to the valves is through the **camshaft**.  The idea is that the continuously rotating camshaft produces a linear motion 
+- In addition, the way we provide the movement to the valves is through the **camshaft**.  The idea is that the continuously rotating camshaft produces a linear motion.
 
 
 ![engine-flywheel](/pictures/engine/engine-flywheel.PNG "engine flywheel")

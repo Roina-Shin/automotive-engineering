@@ -100,7 +100,7 @@
 ![engine-camshaft](/pictures/engine/engine-camshaft.PNG "engine camshaft")
 
 
-![rotating-camshaft](https://en.wikipedia.org/wiki/Cam_%28mechanism%29#/media/File:Nockenwelle_ani.gif)
+![rotating-camshaft](https://energyeducation.ca/wiki/images/2/27/EccentricCam.gif)
 
 
 - In addition, the way we provide the movement to the valves is through the **camshaft**.  The idea is that the continuously rotating camshaft produces a linear motion 

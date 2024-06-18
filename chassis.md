@@ -146,3 +146,77 @@ stress (~ force)
 
 
 - So, without the bearings, there would be clearly a difficult way to connect the shaft and the axle tube and also transmit the forces within. 
+
+
+## Components
+
+### Brakes
+
+- As you know, **brakes** are fundamentally required to immediately **slow down** the speed of the car.
+
+
+- A brake system will act on the wheels according to the brake pedal, operated by the driver.
+
+
+- The brake system must be designed to be durable, reliable and cost-effective.
+
+
+![automotive-braking-system](/pictures/chassis/automotive-braking-system.PNG "automotive braking system")
+
+
+- One of the key things that you have to take into account when considering the design of either **a disc or drum break** is also the influence of the whole system, and particularly with **a hydraulic system**.
+
+
+- Clearly, in order to operate the brakes on the wheels of the car, we must do it by pushing the pedal. And so pushing the pedal implies that **we will be moving fluid, in this case, hydraulic oil**. 
+
+
+- And this oil will move from the **master cylinder** and will move towards the brakes. And the way in which the fluid is capable of influencing the way in which the car brakes is exactly how the brake and the drum brake operate. 
+
+
+- So, clearly, the **hydraulic system** is a key element to the operation of braking system.
+
+
+### Disc Brakes
+
+- Let's talk about the disc brake. The concept of disc brake is that by pushing the pedal, we are allowing the oil in the brake fluid reservoir to move towards the so-called **brake caliper pistons**.
+
+
+![brake-caliper-pistons](/pictures/chassis/brake-caliper-piston.PNG "brake caliper piston")
+
+
+![hydraulic-disc-brake-system](/pictures/chassis/hydraulic-disc-brake-system.PNG "hydraulic disc brake system")
+
+
+- So, as a consequence of the increase in fluid, this fluid will actually push the pistons towards the disc, which is located at the center of two brake pads.
+
+
+- In other words, by applying a force of friction, we are capable of braking. And the friction is nothing but the increase in temperature between the two surfaces. So, as a consequence of braking, there will be a **heat increase**.
+
+
+- So, clearly, this type of brake simply uses friction as a way of reducing the rotational speed of the disk, and that impolies a **heat dissipation**.
+
+
+### Drum Brakes
+
+- Now, the drum brakes are typically found on the rear part of the car. And this is because of the fact that for most cars the front part of the car is more relevant in terms of braking than the rear part of the car. 
+
+
+- So, disc brakes outperform drum brakes. The idea for **drum brake** is that, on the contrary to disc brake, the force is actually acting from the inside to the exterior.
+
+
+![drum-brake](/pictures/chassis/drum-brake.PNG "drum brake")
+
+
+- When we push the pedal, the fluid moves to the inside of the wheel cylinder and this wheel cylinder will then move the components inside of the drum brake.
+
+
+- And the brake shoes will then be forced as a consequence to interact or pushed towards the drum of the brake.
+
+
+![disc-brake-vs-drum-brake](/pictures/chassis/disc-brake-vs-drum-brake.PNG "disc brake vs drum brake")
+
+
+- Actually, the drum brakes are more cost effective to manufacture. So, drum brakes are preferrable for those cars that do not need the performance of the disc brakes.
+
+
+- Therefore, if you are buying a high performance car, the four wheels will all be with disc brakes. But if you are just buying an average car, it will typically be the case where you have disc brakes on the front and drum brakes on the rear part of the car. So, it really comes down to the cost effectiveness.
